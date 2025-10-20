@@ -1,3 +1,8 @@
+/*
+Name  : Dineshkumar R
+Date  : 18/10/2025
+Title : C program to convert C source code to HTML with syntax highlighting
+*/
 #include "headers.h"
 
 int main(int argc, char *argv[])
